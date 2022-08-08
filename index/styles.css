@@ -1,0 +1,27 @@
+p {
+    font-family: 'Lora', serif;
+}
+.title {
+    text-align: center;
+    color: grey;
+}
+.quote {
+    text-align: center;
+    border: 0.5rem outset brown;
+    outline: 0.5rem solid rgb(167, 52, 52);
+    padding: 0.5px;
+    margin: 2rem;
+    border-radius: 12px;
+    outline-offset: 0.1px;
+
+}
+a:link {
+    color: beige;
+  }
+  a:visited {
+    color:brown;
+  }
+  a:hover {
+    color: pink;
+
+  }
